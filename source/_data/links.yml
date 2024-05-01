@@ -1,0 +1,12 @@
+items:
+  - {
+      title: "景蓝的小屋",
+      intro: "鲸落于海，星沉于洼",
+      link: "https://yurik.cafe",
+      avatar: "https://yurik.cafe/favicon/v2/icon@256px.jpg",
+    }
+
+onerror_avatar: /img/avatar.png # 头像错误时加载默认头像
+
+custom:
+  enable: true # 是否启用更多信息 , 如友链添加指南等
