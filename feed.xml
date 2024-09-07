@@ -9,8 +9,25 @@
     <atom:link href="https://norph1n.top/feed.xml" rel="self" type="application/rss+xml"/>
     
     <description>开在与世隔绝的秘密森林里的咖啡厅</description>
-    <pubDate>Sat, 07 Sep 2024 18:54:43 GMT</pubDate>
+    <pubDate>Sat, 07 Sep 2024 19:01:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>18岁生日快乐！</title>
+      <link>https://norph1n.top/2024/happy-18th-birthday/</link>
+      <guid>https://norph1n.top/2024/happy-18th-birthday/</guid>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="https://norph1n.top/categories/%E5%85%B6%E4%BB%96/">其他</category>
+      
+      
+      
+      <comments>https://norph1n.top/2024/happy-18th-birthday/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>树莓派4B烧录CentOS并且使用宝塔搭建博客</title>
