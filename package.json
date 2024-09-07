@@ -7,7 +7,7 @@
     "g": "hexo cl && hexo generate",
     "cl": "hexo clean",
     "d": "hexo deploy",
-    "s": "hexo cl && hexo g && hexo s"
+    "s": "hexo cl && hexo g && hexo s -p 4001"
   },
   "hexo": {
     "version": "7.0.0"
